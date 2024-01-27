@@ -17,12 +17,5 @@ A simple App UI for a Shoes Shop.
 - Choose how many items you want to buy.
 - Nice and smooth animations.
 
-### Video :
-
-https://user-images.githubusercontent.com/94150328/152805079-f3b345c5-6795-46ba-adb1-591b442f3990.mp4
-
-
-**=> This app is inspired by the work of [Afgprogrammer](https://github.com/afgprogrammer)**
-
 
 
